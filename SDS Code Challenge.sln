@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDS Code Challenge", "SDS Code Challenge.csproj", "{85483AFA-9145-4ABA-8A2B-3C469D42491D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDS Challenge Tests", "..\SDS Challenge Tests\SDS Challenge Tests.csproj", "{5FC00C04-D820-4E79-BA29-0AFBB71F5675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85483AFA-9145-4ABA-8A2B-3C469D42491D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85483AFA-9145-4ABA-8A2B-3C469D42491D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85483AFA-9145-4ABA-8A2B-3C469D42491D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85483AFA-9145-4ABA-8A2B-3C469D42491D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC00C04-D820-4E79-BA29-0AFBB71F5675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC00C04-D820-4E79-BA29-0AFBB71F5675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC00C04-D820-4E79-BA29-0AFBB71F5675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC00C04-D820-4E79-BA29-0AFBB71F5675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E7F0AF0-CFAF-46C7-A576-BA0131024CA7}
+	EndGlobalSection
+EndGlobal
